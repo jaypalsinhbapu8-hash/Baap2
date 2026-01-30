@@ -12,19 +12,19 @@
     "stack": "container",
     "env": {
         "API_ID": {
-            "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑰𝑫",
+            "description": "21201224",
             "required": true
         },
         "API_HASH": {
-            "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑯𝒂𝒔𝒉",
+            "description": "6279f81c0cc0ce6a42e155f3e6cfb7a6",
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑩𝒐𝒕 𝑻𝒐𝒌𝒆𝒏",
+            "description": "8527452107:AAFzRx-GnUWv5qdFRbdVREmchn2oIYuK5TM",
             "required": true
         },
         "OWNER_ID": {
-            "description": "𝑼𝒔𝒆𝒓 𝑰𝑫 𝑶𝒇 𝑩𝒐𝒕 𝑶𝒘𝒏𝒆𝒓",
+            "description": "6920994761",
             "required": true
         },
         "SUDO_USERS": {
